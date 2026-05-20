@@ -1,0 +1,13 @@
+this is my own personal game. just created for fun using my friends images. 
+i was just learning pygame and wanted to make a game.
+
+steps:
+1) install from github
+2) in cmd - > pip install -r requirements.txt
+3) run space game BV.py or in cmd - > python space game BV.py
+controls:
+- left - j
+- right - l
+- down - k
+- top - i
+- shoot - space
